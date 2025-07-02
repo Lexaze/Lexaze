@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zelalem Mengistu Teshale (Leza)
+# 👋 Hi, I'm Zelalem Mengistu Teshale (Lexaze)
 
 ### 🚀 Junior Network and RF Engineer | 3D Design Enthusiast | Lifelong Learner
 

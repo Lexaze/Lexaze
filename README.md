@@ -1,22 +1,24 @@
-# 👋 Hi, I'm Zelalem Mengistu Teshale (Lexaze)
+# 👋 Hi, I'm Zelalem Mengistu (Lexaze)
 
-### 🚀 Junior Network and RF Engineer | 3D Design Enthusiast | Lifelong Learner
+## I'm an **Electrical and Computer Engineering graduate** from **Addis Ababa University** with interests in **Networking** and **RF Technologies**.
 
 ---
 
+## Learning Philosophy
+I focus on understanding fundamentals deeply and building step by step.
+<!--
 ## 🌟 About Me
-I'm an **Electrical and Computer Engineering graduate** from **Addis Ababa University** with interests in **Networking, RF Technologies, Network Security**, and **3D Design**. I have hands-on experience in **network design, RF systems, 3D modeling with SolidWorks, and 3D printing**, supported by certifications from **Cisco**, **Huawei**, and **OpenWHO**.
-
+I'm an **Electrical and Computer Engineering graduate** from **Addis Ababa University** with interests in **Networking** and **RF Technologies**. 
 ---
 
-## 🔧 Skills & Tools
+ ## 🔧 Skills & Tools
 - **Networking:** Cisco (CCNA), Huawei (HCIA Datacom), VLANs, Routing, Switching, Network Security
 - **RF & Wireless:** Antenna design, RF anechoic chambers, metasurfaces
 - **Simulation Tools:** GNS3, Cisco Packet Tracer
 - **Programming Languages:** Java (academic), Python (basic), C++ (basic), MATLAB (RF simulations)
 - **Web Development:** HTML, CSS (basic)
 - **3D Design & Manufacturing:** SolidWorks, 3D Printing (Slicing software, printer maintenance, troubleshooting)
-- **Other Tools:** Wireshark, Linux, Git, VS Code
+- **Other Tools:** Wireshark, Linux, Git, VS Code 
 
 ---
 
@@ -43,7 +45,7 @@ I'm an **Electrical and Computer Engineering graduate** from **Addis Ababa Unive
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)]google.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)]google.com)-->
 
 ---
 > *“The best way to predict the future is to invent it.” – Alan Kay*

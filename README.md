@@ -43,7 +43,7 @@ I'm an **Electrical and Computer Engineering graduate** from **Addis Ababa Unive
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zelalem.mengistu.001@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)]google.com)
 
 ---
 > *“The best way to predict the future is to invent it.” – Alan Kay*

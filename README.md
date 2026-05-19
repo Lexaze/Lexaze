@@ -1,5 +1,6 @@
 ### Hi, I'm Zelalem Mengistu (Lexaze)
-I'm an **Electrical and Computer Engineering graduate** from **Addis Ababa University**
+I'm an **Electrical and Computer Engineering graduate** from **Addis Ababa University.
+**
 <!-- I'm an **Electrical and Computer Engineering graduate** from **Addis Ababa University** with interests in **Networking** and **RF Technologies**.
 
 ### Learning Philosophy

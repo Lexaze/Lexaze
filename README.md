@@ -1,9 +1,16 @@
 ### Hi, I'm Zelalem Mengistu (Lexaze)
-I'm an **Electrical and Computer Engineering graduate** from **Addis Ababa University** with interests in **Networking** and **RF Technologies**.
+I'm an **Electrical and Computer Engineering graduate** from **Addis Ababa University**
+<!-- I'm an **Electrical and Computer Engineering graduate** from **Addis Ababa University** with interests in **Networking** and **RF Technologies**.
 
 ### Learning Philosophy
 
  I focus on understanding fundamentals deeply and building step by step.
+
+
+
+-->
+
+
 
 ---
 > *“The best way to predict the future is to invent it.” – Alan Kay*

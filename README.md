@@ -1,5 +1,24 @@
 ### Hi, I'm Zelalem Mengistu (Lexaze)
-I'm an *Electrical and Computer Engineering graduate* from **Addis Ababa University.**
+AI & Machine Learning Engineer passionate about building intelligent systems with LLMs, RAG, NLP, Graph Neural Networks, and Computer Vision.
+
+## Areas of Interest
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Graph Neural Networks (GNNs)
+- Natural Language Processing
+- Computer Vision
+- Multimodal AI
+
+## Featured Projects
+- Enterprise Fraud Detection using Graph Neural Networks
+- ET Amharic Multilingual Language Model for Public Services
+- Multimodal Retrieval-Augmented Generation System
+
+## Tech Stack
+Python • PyTorch • TensorFlow • Scikit-Learn • SQL • OpenCV • REST APIs • Git
+
+Always learning, building, and exploring the future of AI.
+<!--I'm an *Electrical and Computer Engineering graduate* from **Addis Ababa University.**-->
 <!-- I'm an **Electrical and Computer Engineering graduate** from **Addis Ababa University** with interests in **Networking** and **RF Technologies**.
 
 ### Learning Philosophy

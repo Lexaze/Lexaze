@@ -1,4 +1,7 @@
 ### Hi, I'm Zelalem Mengistu (Lexaze)
+ECE Graduate
+
+<!--
 AI & Machine Learning Engineer passionate about building intelligent systems with LLMs, RAG, NLP, Graph Neural Networks, and Computer Vision.
 
 ## Areas of Interest
@@ -17,7 +20,7 @@ AI & Machine Learning Engineer passionate about building intelligent systems wit
 ## Tech Stack
 Python • PyTorch • TensorFlow • Scikit-Learn • SQL • OpenCV • REST APIs • Git
 
-Always learning, building, and exploring the future of AI.
+Always learning, building, and exploring the future of AI.-->
 <!--I'm an *Electrical and Computer Engineering graduate* from **Addis Ababa University.**-->
 <!-- I'm an **Electrical and Computer Engineering graduate** from **Addis Ababa University** with interests in **Networking** and **RF Technologies**.
 
